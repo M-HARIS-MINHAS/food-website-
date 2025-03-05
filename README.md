@@ -36,7 +36,6 @@ npm install
 npm run dev
 ```
 
-The website will be live at **http://localhost:3000**.
 
 ## Technologies Used
 
